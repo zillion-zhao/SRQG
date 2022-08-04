@@ -1,0 +1,100 @@
+windows	['2000', 'vista', 'xp', '7', '10']	what do you want to know about this system ? 
+windows	['phone 7', 'mobile', 'phone 8.1', '10 mobile', '<unknown>']	what do you want to know about this system ? 
+mobile phone models	['samsung galaxy s', 'htc wildfire', 'nokia x6', 'blackberry bold', 'xperia x10']	what do you want to know about mobile phone models ? 
+watches	['tag heuer', 'citizen', 'omega', 'fossil', 'cartier']	which brand are you looking for ? 
+watches	['precious metal', 'brass', 'amber', 'quartz', 'aventurine']	which metal are you looking for ? 
+watches	['automatic', 'manual', 'digital', 'analog', '<unknown>']	what do you want to know about this production ? 
+the presidents of the united states	['john adams', 'thomas jefferson', 'james madison', 'george washington', 'abraham lincoln']	which people are you looking for ? 
+the presidents of the united states	['kitty', 'feather pluckn', 'dune buggy', 'lump', 'peaches']	which meat are you looking for ? 
+michael jackson	['thriller', 'beat it', 'earth song', 'we are the world', 'black or white']	which song are you looking for ? 
+michael jackson	['the best of michael jackson', 'anthology', 'number ones', 'king of pop', '<unknown>']	what do you want to know about this artist ? 
+lost	['jack shephard', 'sayid jarrah', 'charlie pace', 'john locke', 'kate austen']	what do you want to know about this show ? 
+lost	['naveen andrews', 'matthew fox', 'evangeline lilly', 'jorge garcia', 'josh holloway']	what do you want to know about this show ? 
+lost	['season 1', 'season 2', 'season 3', 'season 4', 'season 5']	which season are you looking for ? 
+quotes and sayings	['alcohol', 'age', 'love', 'life', 'inspirational']	which topic of message are you looking for ? 
+7zip	['4.63', '4.64', '4.44 beta', '4.42', '4.62']	what do you want to know about this program ? 
+microsoft excel 2010 date and time functions	['time', 'date', 'day', 'month', 'hour']	what do you want to know about microsoft excel 2010 date and time functions ? 
+lost season 5	['naveen andrews', 'matthew fox', 'josh holloway', 'henry ian cusick', 'jorge garcia']	what do you want to know about lost season 5 ? 
+lost season 5	['follow the leader', 'because you left', 'the lie', 'jughead', 'some like it hoth']	what do you want to know about lost season 5 ? 
+eclipse	['edward cullen', 'bella swan', 'jacob black', 'alice cullen', 'emmett cullen']	which thing are you looking for ? 
+eclipse	['lunar', 'annular', 'solar', 'total', 'partial']	what do you want to know about this script ? 
+camera	['fuji', 'leica', 'cobra', 'digital blue', 'agfa']	which brand do you looking for ? 
+camera	['film format', 'angle of view', 'film speed', 'circle of confusion', 'aperture']	what do you want to know about this device ? 
+camera	['portrait', 'sport', 'aerial', 'night', 'landscape']	what do you want to know about this device ? 
+apple	['500 series', '520c', '280', '270c', '1990 series']	what do you want to know about this company ? 
+bravo tv	['top chef', 'flipping out', 'bethenny getting married', 'shear genius', '<unknown>']	what do you want to know about bravo tv ? 
+sammons preston	['from wheelchairmedical', 'from imed', 'from active forever', 'from spinlife', 'from amazon marketplace']	what do you want to know about sammons preston ? 
+sammons preston	['home care hospital beds', 'lifts and ramps', 'mattress', 'iv infusion', 'lift chairs']	what do you want to know about sammons preston ? 
+sammons preston	['assistive device', 'incontinence', 'bath safety', 'allergy relief', 'baby care']	which service are you looking for ? 
+sausalito art festival	['event', 'restaurant', 'movie', 'venue', 'shopping']	which information are you looking for ? 
+file extension application	['odt', 'kmz', 'torrent', 'sys', 'dat']	what do you want to know about this application ? 
+tobymac	['get this party started', 'j train', 'extreme days', 'irene', 'made to love']	what do you want to know about this artist ? 
+melissa joan hart	['abc weekend specials', 'another world', 'early beginnings', 'touched by an angle', '<unknown>']	what do you want to know about this celebrity ? 
+mr food	['turkey frame soup', 'black forest coffee', 'popcorn stuffing', 'chicken wild rice soup', '<unknown>']	what do you want to know about this genius ? 
+man vs wild	['episode 1', 'episode 2', 'episode 3', 'episode 4', 'episode 5']	what do you want to know about man vs wild ? 
+man vs wild	['photo', 'video', 'episode', 'news', '<unknown>']	which information are you looking for ? 
+man vs wild	['sahara', 'namibia', 'zambia', 'jungle', 'siberia']	which place are you looking for ? 
+man vs wild	['costa rican rainforest', 'the rockies', 'moab desert', 'scotland', 'european alps']	what do you want to know about man vs wild ? 
+man vs wild	['season 1', 'season 2', 'season 3', 'season 4', 'season 5']	which season are you looking for ? 
+the clarion ledger	['car', 'partner', 'find it', 'real estate', 'apartment']	which part are you looking for ? 
+calenders	['desk', 'wall', 'pocket', 'travel', 'art']	what do you want to know about this software ? 
+create email address now	['yahoo', 'msn', 'hotmail', 'gmail', 'aol']	which email are you looking for ? 
+direct buy login	['cabinet', 'entertainment', 'book', 'jewelry', 'flooring']	which service are you looking for ? 
+watch movies online net free	['megamind', 'unstoppable', 'skyline', 'due date', 'easy a']	which material are you looking for ? 
+watch movies online net free	['crime', 'comedy', 'adventure', 'drama', 'horror']	which item are you looking for ? 
+watch movies online net free	['supernovatube', 'myspace', 'tudou', 'veoh', 'dailymotion']	which site are you looking for ? 
+sinhala songs	['ajith bandara', 'lahiru perera', 'nirosha', '<unknown>', '<unknown>']	what do you want to know about sinhala songs ? 
+twitter	['twitterrific', 'tweetdeck', 'twitdom', 'twhirl', 'tweetie']	what do you want to know about this social media ? 
+kscfcu	['banking', 'loan', 'dredit union', 'mortgage', '<unknown>']	what do you want to know about this file ? 
+whey protein	['dymatize', 'optimum nutrition', 'accufitness', 'gaspari nutrition', 'alri']	what do you want to know about this protein ? 
+whey protein	['chocolate', 'french vanilla', 'cookies cream', 'natural', 'rocky road']	what do you want to know about this protein ? 
+whey protein	['glycomacropeptide', 'lactoferrin', 'lysozyme', 'hydrolysate', 'serum albumin']	what do you want to know about this protein ? 
+craig s list phoenix	['art craft', 'barter', 'book', 'furniture', 'boat']	which material are you looking for ? 
+car battery ignition system pioneer	['spark ignition', 'induction coil', 'controllable pitch propeller', 'carburetor', 'avgas']	what do you want to know about car battery ignition system pioneer ? 
+free fun games	['dressup', 'animal', 'cooking', 'car', 'board']	which outdoor activity are you looking for ? 
+human papillomavirus	['symptom', 'statistics', 'history', 'overview', 'prevention']	what do you want to know about this cause ? 
+human papillomavirus	['rectum', 'penile', 'vulvar', 'vaginal', 'scrotum']	which organ are you looking for ? 
+human papillomavirus	['plantar', 'flat', 'precancerous', '<unknown>', '<unknown>']	what do you want to know about this cause ? 
+shrew	['crocidura', 'ruwenzorisorex', 'feroculus', 'scutisorex', 'crocidurinae']	what do you want to know about this small mammal ? 
+shrew	['kingdom', 'phylum', 'family', 'mammalia', 'soricidae']	what do you want to know about this small mammal ? 
+21 weeks pregnant	['week 1', 'week 4', 'week 8', 'week 11', 'week 21']	what do you want to know about 21 weeks pregnant ? 
+21 weeks pregnant	['second trimester', 'first trimeter', 'third trimester', '<unknown>', '<unknown>']	which time are you looking for ? 
+birkenstocks	['birkenstock clogs', 'classic birkenstocks', 'custom birkenstock', 'irkenstock', 'birkenstock kids']	what do you want to know about birkenstocks ? 
+birkenstocks	['woman', 'man', 'boy', 'girl', 'kid']	who are you shopping for ? 
+birkenstocks	['orthotics', 'fit flops', 'newalk', 'alegria', 'teva']	what do you want to know about birkenstocks ? 
+top 100 billboard	['1956', '1999', '1957', '1995', '1998']	what do you want to know about top 100 piecing ? 
+top 100 billboard	['rihanna', 'jackie evancho', 'kid rock', 'eminem', 'ke ha']	what do you want to know about top 100 document ? 
+top 100 billboard	['hip hop', 'rock', 'avant garde', 'dance', 'country']	which music are you looking for ? 
+glock 26	['length', 'caliber', 'width', 'height', 'weight']	what do you want to know about this discussion on prokaryotic ? 
+glock 26	['bersa', 'beretta', 'amt', 'colt', 'fn']	what do you want to know about this discussion on prokaryotic cells ? 
+ezstub	['ezstub22', 'ezpopstub', 'ezulumain', 'ezinstall', 'ezstubseedcorn']	what do you want to know about this platform ? 
+ezstub	['human resource manager', 'finance officer', 'accountant', 'budget analysis', '<unknown>']	what do you want to know about this platform ? 
+car seat laws	['infant', 'convertible', 'booster', 'recaro', 'evenflo']	which car are you looking for ? 
+nfl final cuts	['new orleans saints', 'new york giants', 'miami dolphins', 'philadelphia eagles', 'oakland raiders']	which show are you looking for ? 
+nfl final cuts	['player', 'schedule', 'score', 'rosterteam', '<unknown>']	which people are you looking for ? 
+last day of summer	['dj qualls', 'william salder', 'nikki reed', 'jason cruz', 'robin taylor']	what do you want to know about last day of summer ? 
+last day of summer	['genre', 'release date', 'studio', 'director', 'rating']	which information are you looking for ? 
+cumberland county	['newville pennsylvania', 'camp hill pennsylvania', 'lemoyne pennsylvania', 'carlisle pennsylvania', 'wormleysburg pennsylvania']	what do you want to know about this county ? 
+cumberland county	['fairfield', 'deerfiled', 'downe', 'commercial', 'bridgeton']	what do you want to know about this county ? 
+low vitamin d symptoms	['heart disease', 'hypertension', 'cancer', 'diabetes', 'stroke']	which disease are you looking for ? 
+vicente fernandez videos	['volver volver', 'estos celos', 'estado civil', 'que de raro tiene', 'diferencia']	what do you want to know about this videos ? 
+facebook org	['chris kelly', 'chris hughes', 'gideon yu', 'mark zuckerberg', 'andrei alexandrescu']	what do you want to know about facebook org ? 
+facebook org	['photo', 'wall post', 'your message', 'friend', 'interest']	which important information are you looking for ? 
+manitoba	['winnipeg', 'brandon', 'churchill', 'thompson', 'flin flon']	what do you want to know about this province ? 
+manitoba	['central plains', 'pembina valley', 'parkland', 'interlake', '<unknown>']	what do you want to know about this province ? 
+manitoba	['assiniboine', 'nelson', 'whiteshell', 'churchill river', 'hayes']	what do you want to know about this province ? 
+1000 islands	['diving', 'snowmobiling', 'hiking', 'dining', 'lodging']	which activity are you looking for ? 
+1000 islands	['lawrence river', 'canada', 'municipal marina', 'ontario', 'henderson']	what do you want to know about 1000 islands ? 
+bimba	['rotary actuator', 'linear thruster', 'space saving cylinder', 'switch', 'transition plate']	what do you want to know about this bimba ? 
+marlboro cigarette official web site	['basic', 'benson hedges', '555', 'winston', 'marlboro ks']	which site are you looking for ? 
+college football data warehouse	['notre dame', 'boise state', 'michigan', 'nebraska', 'alabama']	which school are you looking for ? 
+saradas	['brasileira', 'gostosas', 'brazilian', 'saude', 'mulheres']	what do you want to know about this adult site ? 
+saradas	['bobt', 'cleaslave', 'old surehand', 'graywolf14', 'memyself']	what do you want to know about this adult site ? 
+shayne graham	['college', 'height', 'weight', 'age', 'experience']	what do you want to know about shayne graham ? 
+nj transit schedule	['academy bus', 'trans bridge lines', 'mta regional bus operations', 'first student', 'community coach']	what do you want to know about nj transit schedule ? 
+nj transit schedule	['boonton', 'bergen county', 'morries essex lines', 'northeast corridor', 'main bergen']	what do you want to know about nj transit schedule ? 
+nj transit schedule	['commuter rail', 'new jersey', 'ferry', 'train', 'bus']	which public transportation are you looking for ? 
+hot crab dip	['sour cream', 'mayonnaise', 'lemon juice', 'cream cheese', 'crabmeat']	which ingredient are you looking for ? 
+saturn ion	['outlook', 'vue', 'astra', 'aura', 'lw']	what do you want to know about this small car ? 
+our lady of czestochowa	['shrine', 'cemetery', 'gallery', 'offering', 'novena']	which field are you looking for ? 
+mcdonalds nutrition guide	['big mac', 'hamburger', 'cheeseburger', 'quarter pounder', 'chicken mcnugget']	which food are you looking for ? 

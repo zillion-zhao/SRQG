@@ -1,0 +1,100 @@
+google chrome exe	['64 bit', '32 bit']	which bit version of chrome are you looking for?
+supernoobs	['character', 'episode', 'rating', 'plot', 'broadcast']	what do you want to know about this cartoon?
+sickle cell anemia	['symptom', 'causes', 'treatment', 'diagnosis', 'diet']	what do you want to know about this disease?
+acitretin	['side effect', 'cost', 'prescribing information', 'brand name', 'generic']	what do you want to know about this oral retinoid?
+leiden	['thing to do', 'what time is it', 'weather', 'zip code']	what do you want to know about this city?
+quiet riot	['song', 'member', 'album', 'tour']	what do you want to know about this american heavy metal band?
+diabetes diet	['type 1', 'type 2']	which health are you looking for?
+open gif file	['windows 10', 'windows 8', 'windows 7', 'windows vista', 'windows xp']	which operating system are you looking for?
+social phobia	['symptom', 'cause', 'treatment', 'diagnosis', 'diet']	what do you want to know about this anxiety disorder?
+transfer pictures	['android', 'iphone']	which device are you looking for?
+guinea pig	['care for', 'bathe', 'train', 'breed', 'play with']	what do you want to know about this pet?
+croton plant	['outdoor', 'indoor']	which pot are you looking for?
+romans 9	['kjv', 'niv', 'esv', 'nasb', 'nlt']	which translation are you looking for?
+agario	['ios', 'android']	what do you want to know about this io game?
+lipoma	['treatment', 'symptom', 'cause', 'diagnosis', 'diet']	what do you want to know about this benign tumor?
+haloperidol	['side effect', 'half life', 'dosage', 'generic', 'injection']	what do you want to know about this antipsychotic drug?
+centimeters	['inch', 'millimeter', 'feet', 'meter', 'kilometer']	which unit are you looking for?
+icloud photos	['access', 'download', 'delete', 'share']	what do you want to do with icloud photos?
+busan	['thing to do', 'weather', 'what time is it', 'population']	what do you want to know about this city?
+prom dresses	['long', 'short']	which bridesmaid dress are you looking for?
+office 365	['use', 'install', 'remove']	what do you want to do with office 365?
+koi fish	['for sale', 'pictures', 'fact', 'type', 'eat']	what do you want to know about this fish tattoo?
+psycho	['cast', 'characters', 'summary', 'trailer', 'quotes']	what do you want to know about this film?
+cursive	['letters', 'notepad', 'cards', 'stickers', 'magnets']	what do you want to know about this handwriting?
+life	['succeed', 'enjoy', 'play', 'live', 'change']	what do you want to do with life?
+protein	['get', 'test', 'calculate', 'make', 'isolate']	what do you want to do with protein?
+nebraska	['abbreviation', 'time', 'population', 'job', 'unemployment']	what do you want to know about this state?
+gettysburg	['movie', 'college', 'address', 'city', 'national military park']	what do you want to know about this battlefield?
+trailer	['build', 'load', 'back up', 'wire', 'level']	what do you want to know about this vehicle?
+donkey	['picture', 'fact', 'baby', 'sound']	what do you want to know about this ass?
+crystal city	['hotel', 'zip code', 'restaurant', 'thing to do', 'population']	what do you want to know about this county?
+pad thai	['shrimp', 'tofu', 'chicken', 'vegetable', 'cabbage']	what do you want to know about this dish?
+bleach	['use', 'watch', 'make', 'dispose', 'dilute']	what do you want to do with bleach?
+chuck	['tv show', 'berry', 'norris', 'meat', 'film']	what do you want to know about this series?
+pantera	['song', 'album', 'member', 'merch', 'lyric']	what do you want to know about this metal?
+paper	['make', 'use tracing', 'grade', 'laminate', 'recycle']	what do you want to know about this material?
+file extension exe	['windows 10', 'windows 8', 'windows 7', 'windows vista', 'windows xp']	which system are you looking for?
+expo markers	['dry erase', 'wet erase']	which whiteboard are you looking for?
+kindle	['print from', 'reset', 'use', 'update', 'deregister']	what do you want to know about this e reader?
+carrots	['cook', 'grow', 'freeze', 'store']	what do you want to do with carrots?
+ps4 mic	['usb', 'bluetooth', 'wireless']	which feature are you looking for?
+underwear for women	['jockey', 'hanes', 'calvin klein', 'fruit of the loom', 'tommy hilfiger']	which brand are you looking for?
+cabins in asheville nc	['for rent', 'for sale']	which owner are you looking for?
+tungsten wedding bands	['for men', 'for women']	who are you shopping for?
+outlook email setup	['imap', 'pop3']	which protocol are you looking for?
+multiple system atrophy	['symptom', 'treatment', 'cause', 'diagnosis', 'diet']	what do you want to know about this neurodegenerative disorder?
+kids poems	['short', 'long']	which child are you looking for?
+star wars lego sets	['general grievous', 'boba fett', 'darth vader', 'yoda', 'darth maul']	which character are you looking for?
+epson printer drivers	['windows 10', 'windows 7', 'windows 8', 'windows vista', 'windows 2000']	which windows are you looking for?
+what does npi stand for	['dental', 'medical']	which service are you looking for?
+olympic swimmers	['female', 'male']	who are you shopping for?
+how are magnets made	['temporary', 'permanent']	which magnetic field are you looking for?
+spontaneous pneumothorax	['secondary', 'primary']	which factor are you looking for?
+cute easy hairstyles	['medium', 'long', 'short']	which haircut are you looking for
+active transport definition biology	['secondary', 'primary']	which type are you looking for?
+condolence messages	['short', 'long']	which love are you looking for?
+medical assistant	['job description', 'salary', 'certification', 'resume']	what do you want to know about this job?
+rhabdomyolysis	['symptom', 'causes', 'treatment', 'diagnosis', 'diet']	what do you want to know about this condition?
+hamster	['care for', 'train', 'tame', 'stop from biting', 'hold']	what do you want to know about this pet?
+matlab	['download', 'use', 'learn', 'plot', 'concatenate']	what do you want to do with matlab?
+aikido techniques	['beginner', 'advanced']	which class are you looking for?
+sims 4 custom content	['hair', 'nails', 'skin', 'eyes', 'makeup']	what do you want to know about sims 4 custom content?
+cedar siding	['interior', 'exterior']	which product are you looking for?
+strength	['character', 'leadership', 'communication', 'family', 'writing']	what do you want to know about this thing?
+my occ	['financial aid', 'registration', 'transcript', 'library', 'bookstore']	which service are you looking for?
+adjectives to describe a person	['positive', 'negative']	which list are you looking for?
+how long to cook liver	['lamb', 'beef', 'pork', 'chicken', 'turkey']	which meat are you looking for?
+dell t5400	['motherboard', 'memory', 'power supply', 'processor', 'video card']	which computer part are you looking for?
+golden nugget las vegas	['event', 'restaurant', 'picture', 'map', 'parking']	what do you want to know about this resort on the fremont?
+conexant audio driver windows 10	['hp', 'asus', 'dell', 'toshiba', 'lenovo']	which computer are you looking for?
+tetralogy of fallot	['symptom', 'treatment', 'cause', 'diagnosis', 'diet']	what do you want to know about this congenital heart defect?
+dear evan hansen	['summary', 'script', 'song', 'quote', 'character']	what do you want to know about this musical theatre?
+team fortress 2	['steam', 'mod', 'gameplay', 'cheat']	what do you want to know about this game?
+usb drive	['open', 'format', 'eject', 'boot from']	what do you want to know about this drive?
+saskatoon	['things to do', 'weather', 'population', 'what time', 'zip code']	what do you want to know about this city?
+sand dollar	['fact', 'image', 'for sale', 'eat', 'shell']	what do you want to know about this sea urchin?
+the sandlot	['cast', 'character', 'quote', 'trailer', 'soundtrack']	what do you want to know about this ball?
+directx 12	['download', 'enable', 'uninstall']	what do you want to do with directx 12?
+daredevil	['movie', 'tv show', 'comic']	what do you want to know about this character?
+rugrats	['tv show', 'movie']	which film are you looking for?
+internal auditor	['job description', 'personal goal', 'qualification', 'average salary', 'resume']	what do you want to know about this professional?
+qualitative research	['data analysis', 'sampling', 'coding', 'methodology', 'research design']	what do you want to know about this method?
+corbel	['concrete', 'metal', 'brick', 'wood', 'stone']	which material are you looking for?
+list of healthy carbs	['for weight loss', 'for weight gain']	what do you want to know about list of healthy carbs?
+vein stenosis	['hepatic', 'renal', 'pulmonary']	which condition are you looking for?
+santa barbara	['population', 'things to do', 'fact', 'hotel', 'weather in may']	what do you want to know about this city?
+facial tingling	['left side', 'right side']	which body are you looking for?
+mini scones	['vanilla bean', 'chocolate chip', 'lemon', 'cinnamon', 'pumpkin']	which cookie are you looking for?
+oceano ca	['homes for sale', 'weather', 'hotels', 'zip code']	what do you want to know about this campground or rv park?
+dump cakes	['apple', 'cherry', 'chocolate', 'pumpkin', 'lemon']	which dump cake recipe are you looking for?
+martinique	['things to do', 'flag', 'currency', 'population', 'time']	what do you want to know about this island?
+cuadra	['boots', 'belt', 'wallet', 'messenger bag', 'jacket']	what do you want to know about this record?
+byu provo	['housing', 'admission', 'scholarship', 'bookstore', 'counseling']	what do you want to know about byu provo?
+sioux center iowa	['weather', 'news', 'zip code', 'population']	which information are you looking for?	3
+salem massachusetts	['things to do', 'weather', 'zip code', 'population']	what do you want to know about salem massachusetts?
+dermatophytosis	['treatment', 'symptom', 'cause', 'diagnosis', 'diet']	which risk factor are you looking for?
+front loading washing machine	['maytag', 'kenmore', 'samsung', 'lg', 'ge']	which brand are you looking for?
+velvet revolver	['member', 'album', 'lyric', 'tour']	what do you want to know about this band?
+adhd	['symptom', 'cause', 'treatment', 'diagnosis', 'diet']	what do you want to know about this disorder?
+pancreatic cancer	['symptom', 'treatment', 'cause', 'diagnosis', 'diet']	what do you want to know about this cancer?

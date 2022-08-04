@@ -1,0 +1,100 @@
+windows_1	['2000', 'vista', 'xp', '7', '10']	which operating system are you looking for?
+windows_2	['phone 7', 'mobile', 'phone 8.1', '10 mobile']	what do you want to know about this operating system?
+mobile phone models_1	['samsung galaxy s', 'htc wildfire', 'nokia x6', 'blackberry bold', 'xperia x10']	which device are you looking for?
+watches_1	['tag heuer', 'citizen', 'omega', 'fossil', 'cartier']	which luxury watch are you looking for?
+watches_2	['precious metal', 'brass', 'amber', 'quartz', 'aventurine']	which gemstone are you looking for?
+watches_3	['automatic', 'manual', 'digital', 'analog']	which information are you looking for?
+the presidents of the united states_1	['john adams', 'thomas jefferson', 'james madison', 'george washington', 'abraham lincoln']	which president are you looking for?
+the presidents of the united states_2	['kitty', 'feather pluckn', 'dune buggy', 'lump', 'peaches']	what do you want to know about the presidents of the united states_2?
+michael jackson_1	['thriller', 'beat it', 'earth song', 'we are the world', 'black or white']	which music video are you looking for?
+michael jackson_2	['the best of michael jackson', 'anthology', 'number ones', 'king of pop']	what do you want to know about michael jackson_2?
+lost_1	['jack shephard', 'sayid jarrah', 'charlie pace', 'john locke', 'kate austen']	what do you want to know about this television series?
+lost_2	['naveen andrews', 'matthew fox', 'evangeline lilly', 'jorge garcia', 'josh holloway']	what do you want to know about this series?
+lost_3	['season 1', 'season 2', 'season 3', 'season 4', 'season 5']	what do you want to know about this television series?
+quotes and sayings_1	['alcohol', 'age', 'love', 'life', 'inspirational']	which message theme are you looking for?
+7zip_1	['4.63', '4.64', '4.44 beta', '4.42', '4.62']	what do you want to know about this software?
+microsoft excel 2010 date and time functions_1	['time', 'date', 'day', 'month', 'hour']	which information are you looking for?
+lost season 5_1	['naveen andrews', 'matthew fox', 'josh holloway', 'henry ian cusick', 'jorge garcia']	what do you want to know about lost season 5_1?
+lost season 5_2	['follow the leader', 'because you left', 'the lie', 'jughead', 'some like it hoth']	what do you want to know about lost season 5_2?
+eclipse_1	['edward cullen', 'bella swan', 'jacob black', 'alice cullen', 'emmett cullen']	what do you want to know about this development environment?
+eclipse_2	['lunar', 'annular', 'solar', 'total', 'partial']	what do you want to know about this development environment?
+camera_1	['fuji', 'leica', 'cobra', 'digital blue', 'agfa']	which manufacturer are you looking for?
+camera_2	['film format', 'angle of view', 'film speed', 'circle of confusion', 'aperture']	what do you want to know about this feature?
+camera_3	['portrait', 'sport', 'aerial', 'night', 'landscape']	which built in scene mode are you looking for?
+apple_1	['500 series', '520c', '280', '270c', '1990 series']	what do you want to know about this company?
+bravo tv_1	['top chef', 'flipping out', 'bethenny getting married', 'shear genius']	what do you want to know about bravo tv_1?
+sammons preston_1	['from wheelchairmedical', 'from imed', 'from active forever', 'from spinlife', 'from amazon marketplace']	what do you want to know about this brand?
+sammons preston_2	['home care hospital beds', 'lifts and ramps', 'mattress', 'iv infusion', 'lift chairs']	what do you want to know about this brand?
+sammons preston_3	['assistive device', 'incontinence', 'bath safety', 'allergy relief', 'baby care']	what do you want to know about this brand?
+sausalito art festival_1	['event', 'restaurant', 'movie', 'venue', 'shopping']	which information are you looking for?
+file extension application_1	['odt', 'kmz', 'torrent', 'sys', 'dat']	which popular video format are you looking for?
+tobymac_1	['get this party started', 'j train', 'extreme days', 'irene', 'made to love']	what do you want to know about this artist?
+melissa joan hart_1	['abc weekend specials', 'another world', 'early beginnings', 'touched by an angle']	what do you want to know about melissa joan hart_1?
+mr food_1	['turkey frame soup', 'black forest coffee', 'popcorn stuffing', 'chicken wild rice soup']	what do you want to know about mr food_1?
+man vs wild_1	['episode 1', 'episode 2', 'episode 3', 'episode 4', 'episode 5']	what do you want to know about man vs wild_1?
+man vs wild_2	['photo', 'video', 'episode', 'news']	which information are you looking for?
+man vs wild_3	['sahara', 'namibia', 'zambia', 'jungle', 'siberia']	which southern african country are you looking for?
+man vs wild_4	['costa rican rainforest', 'the rockies', 'moab desert', 'scotland', 'european alps']	which mountainous region are you looking for?
+man vs wild_5	['season 1', 'season 2', 'season 3', 'season 4', 'season 5']	what do you want to know about man vs wild_5?
+the clarion ledger_1	['car', 'partner', 'find it', 'real estate', 'apartment']	what do you want to know about the clarion ledger_1?
+calenders_1	['desk', 'wall', 'pocket', 'travel', 'art']	which office furniture are you looking for?
+create email address now_1	['yahoo', 'msn', 'hotmail', 'gmail', 'aol']	which email service are you looking for?
+direct buy login_1	['cabinet', 'entertainment', 'book', 'jewelry', 'flooring']	which valuable item are you looking for?
+watch movies online net free_1	['megamind', 'unstoppable', 'skyline', 'due date', 'easy a']	what do you want to know about watch movies online net free_1?
+watch movies online net free_2	['crime', 'comedy', 'adventure', 'drama', 'horror']	which genre are you looking for?
+watch movies online net free_3	['supernovatube', 'myspace', 'tudou', 'veoh', 'dailymotion']	which site are you looking for?
+sinhala songs_1	['ajith bandara', 'lahiru perera', 'nirosha']	what do you want to know about sinhala songs_1?
+twitter_1	['twitterrific', 'tweetdeck', 'twitdom', 'twhirl', 'tweetie']	what do you want to know about this social network?
+kscfcu_1	['banking', 'loan', 'dredit union', 'mortgage']	which service industry are you looking for?
+whey protein_1	['dymatize', 'optimum nutrition', 'accufitness', 'gaspari nutrition', 'alri']	what do you want to know about this protein?
+whey protein_2	['chocolate', 'french vanilla', 'cookies cream', 'natural', 'rocky road']	what do you want to know about this protein?
+whey protein_3	['glycomacropeptide', 'lactoferrin', 'lysozyme', 'hydrolysate', 'serum albumin']	what do you want to know about this protein?
+craig s list phoenix_1	['art craft', 'barter', 'book', 'furniture', 'boat']	what do you want to know about craig s list phoenix_1?
+car battery ignition system pioneer_1	['spark ignition', 'induction coil', 'controllable pitch propeller', 'carburetor', 'avgas']	what do you want to know about car battery ignition system pioneer_1?
+free fun games_1	['dressup', 'animal', 'cooking', 'car', 'board']	what do you want to know about this game?
+human papillomavirus_1	['symptom', 'statistics', 'history', 'overview', 'prevention']	what do you want to know about this viral infection?
+human papillomavirus_2	['rectum', 'penile', 'vulvar', 'vaginal', 'scrotum']	what do you want to know about this viral infection?
+human papillomavirus_3	['plantar', 'flat', 'precancerous']	what do you want to know about this viral infection?
+shrew_1	['crocidura', 'ruwenzorisorex', 'feroculus', 'scutisorex', 'crocidurinae']	what do you want to know about this small mammal?
+shrew_2	['kingdom', 'phylum', 'family', 'mammalia', 'soricidae']	what do you want to know about this smallest mammal?
+21 weeks pregnant_1	['week 1', 'week 4', 'week 8', 'week 11', 'week 21']	which week are you looking for?
+21 weeks pregnant_2	['second trimester', 'first trimeter', 'third trimester']	what do you want to know about 21 weeks pregnant_2?
+birkenstocks_1	['birkenstock clogs', 'classic birkenstocks', 'custom birkenstock', 'irkenstock', 'birkenstock kids']	what do you want to know about birkenstocks_1?
+birkenstocks_2	['woman', 'man', 'boy', 'girl', 'kid']	who are you shopping for?
+birkenstocks_3	['orthotics', 'fit flops', 'newalk', 'alegria', 'teva']	what do you want to know about birkenstocks_3?
+top 100 billboard_1	['1956', '1999', '1957', '1995', '1998']	what do you want to know about top 100 billboard_1?
+top 100 billboard_2	['rihanna', 'jackie evancho', 'kid rock', 'eminem', 'ke ha']	what do you want to know about top 100 billboard_2?
+top 100 billboard_3	['hip hop', 'rock', 'avant garde', 'dance', 'country']	which music are you looking for?
+glock 26_1	['length', 'caliber', 'width', 'height', 'weight']	what do you want to know about this automatic pistol?
+glock 26_2	['bersa', 'beretta', 'amt', 'colt', 'fn']	what do you want to know about this automatic pistol?
+ezstub_1	['ezstub22', 'ezpopstub', 'ezulumain', 'ezinstall', 'ezstubseedcorn']	what do you want to know about this doculivery online document management?
+ezstub_2	['human resource manager', 'finance officer', 'accountant', 'budget analysis']	which professional advisor are you looking for?
+car seat laws_1	['infant', 'convertible', 'booster', 'recaro', 'evenflo']	what do you want to know about car seat laws_1?
+nfl final cuts_1	['new orleans saints', 'new york giants', 'miami dolphins', 'philadelphia eagles', 'oakland raiders']	what do you want to know about nfl final cuts_1?
+nfl final cuts_2	['player', 'schedule', 'score', 'rosterteam']	what do you want to know about nfl final cuts_2?
+last day of summer_1	['dj qualls', 'william salder', 'nikki reed', 'jason cruz', 'robin taylor']	what do you want to know about this television film broadcast by nickelodeon?
+last day of summer_2	['genre', 'release date', 'studio', 'director', 'rating']	which track information are you looking for?
+cumberland county_1	['newville pennsylvania', 'camp hill pennsylvania', 'lemoyne pennsylvania', 'carlisle pennsylvania', 'wormleysburg pennsylvania']	what do you want to know about this county?
+cumberland county_2	['fairfield', 'deerfiled', 'downe', 'commercial', 'bridgeton']	what do you want to know about this county?
+low vitamin d symptoms_1	['heart disease', 'hypertension', 'cancer', 'diabetes', 'stroke']	which risk factor are you looking for?
+vicente fernandez videos_1	['volver volver', 'estos celos', 'estado civil', 'que de raro tiene', 'diferencia']	what do you want to know about vicente fernandez videos_1?
+facebook org_1	['chris kelly', 'chris hughes', 'gideon yu', 'mark zuckerberg', 'andrei alexandrescu']	what do you want to know about facebook org_1?
+facebook org_2	['photo', 'wall post', 'your message', 'friend', 'interest']	which information are you looking for?
+manitoba_1	['winnipeg', 'brandon', 'churchill', 'thompson', 'flin flon']	what do you want to know about this canadian province?
+manitoba_2	['central plains', 'pembina valley', 'parkland', 'interlake']	what do you want to know about this canadian province?
+manitoba_3	['assiniboine', 'nelson', 'whiteshell', 'churchill river', 'hayes']	what do you want to know about this canadian province?
+1000 islands_1	['diving', 'snowmobiling', 'hiking', 'dining', 'lodging']	which water activity are you looking for?
+1000 islands_2	['lawrence river', 'canada', 'municipal marina', 'ontario', 'henderson']	which canadian province are you looking for?
+bimba_1	['rotary actuator', 'linear thruster', 'space saving cylinder', 'switch', 'transition plate']	what do you want to know about this front nose?
+marlboro cigarette official web site_1	['basic', 'benson hedges', '555', 'winston', 'marlboro ks']	what do you want to know about marlboro cigarette official web site_1?
+college football data warehouse_1	['notre dame', 'boise state', 'michigan', 'nebraska', 'alabama']	which team are you looking for?
+saradas_1	['brasileira', 'gostosas', 'brazilian', 'saude', 'mulheres']	what do you want to know about this website?
+saradas_2	['bobt', 'cleaslave', 'old surehand', 'graywolf14', 'memyself']	what do you want to know about this website?
+shayne graham_1	['college', 'height', 'weight', 'age', 'experience']	what do you want to know about this footballer placekicker?
+nj transit schedule_1	['academy bus', 'trans bridge lines', 'mta regional bus operations', 'first student', 'community coach']	which information are you looking for?
+nj transit schedule_2	['boonton', 'bergen county', 'morries essex lines', 'northeast corridor', 'main bergen']	what do you want to know about nj transit schedule_2?
+nj transit schedule_3	['commuter rail', 'new jersey', 'ferry', 'train', 'bus']	which public transportation are you looking for?
+hot crab dip_1	['sour cream', 'mayonnaise', 'lemon juice', 'cream cheese', 'crabmeat']	which acidic ingredient are you looking for?
+saturn ion_1	['outlook', 'vue', 'astra', 'aura', 'lw']	what do you want to know about this switch in small car?
+our lady of czestochowa_1	['shrine', 'cemetery', 'gallery', 'offering', 'novena']	what do you want to know about our lady of czestochowa_1?
+mcdonalds nutrition guide_1	['big mac', 'hamburger', 'cheeseburger', 'quarter pounder', 'chicken mcnugget']	which food are you looking for?

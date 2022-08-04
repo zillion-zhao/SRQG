@@ -1,0 +1,100 @@
+onekey optimizer	['windows 10', 'windows 7', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about this software ? 
+nsw tafe portal	['staff', 'student', '<unknown>', '<unknown>', '<unknown>']	which group of people are you looking for ? 
+spring valley sales	['boat', 'car', '<unknown>', '<unknown>', '<unknown>']	which vehicle are you looking for ? 
+alex and ani bracelets	['for mom', 'for women', 'for girls', 'for baby', '<unknown>']	what do you want to know about alex and ani bracelets ? 
+eastlake	['middle school', 'elementary school', '<unknown>', '<unknown>', '<unknown>']	which school are you looking for ? 
+wall mounted toothbrush holder	['ceramic', 'wood', 'chrome', 'bronze', 'plastic']	which material are you looking for ? 
+network shared folder	['windows 10', 'windows 7', '<unknown>', '<unknown>', '<unknown>']	which operating system are you looking for ? 
+geckodriver	['firefox', 'chrome', '<unknown>', '<unknown>', '<unknown>']	which browser are you looking for ? 
+my town game	['hospital', 'airport', 'school', 'museum', 'wedding game']	which institution are you looking for ? 
+adobe edit pdf	['to word', 'to excel', 'to linux', 'to outlook', '<unknown>']	what do you want to know about adobe edit pdf ? 
+teveten	['discontinued', 'side effect', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about this condition ? 
+battle of poitiers	['tour', 'fact', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about battle of poitiers ? 
+delta tau delta	['wsu', 'tcu', 'purdue', 'penn state', 'ohio state']	which team of the game are you looking for ? 
+shell factory	['event', 'jewelry', 'wedding', '<unknown>', '<unknown>']	which item are you looking for ? 
+mathway calc	['algebra', 'graphing', '<unknown>', '<unknown>', '<unknown>']	which subject are you looking for ? 
+city of westland	['water department', 'assessor', 'building department', 'police department', 'treasurer']	what do you want to know about city of westland ? 
+sandbridge	['rental', 'homes for sale', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about this place ? 
+fireplace accessories	['gas', 'wood', 'electric', 'propane', '<unknown>']	what do you want to know about fireplace accessories ? 
+dry aged steak	['filet mignon', 'delmonico', 'ribeye', 'strip', 'skirt']	what do you want to know about dry aged steak ? 
+skip hop	['diaper bag', 'high chair', 'baby', 'bouncer', 'toy']	which item are you looking for ? 
+backyard shed	['office', 'bathroom', 'hot tub', 'gym', 'bedroom']	which place are you looking for ? 
+further education	['for nurse', 'for pharmacist', 'for physician assistant', 'for counselor', 'for optometrist']	what do you want to know about this workshop contributor ? 
+age demographics	['by zip code', 'us population', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about age demographics ? 
+hazard lights	['tractor', 'car', 'bus', '<unknown>', '<unknown>']	which equipment are you looking for ? 
+seagate discwizard	['windows 10', 'windows 7', 'windows 8', '<unknown>', '<unknown>']	which operating system are you looking for ? 
+vob player	['windows', 'mac', 'android', '<unknown>', '<unknown>']	which platform are you looking for ? 
+wire rack	['shelving', 'wire rack cart', '<unknown>', '<unknown>', '<unknown>']	which item are you looking for ? 
+pestworld	['bed bug', 'ant', 'spider', '<unknown>', '<unknown>']	which pest control are you looking for ? 
+williston nd	['real estate', 'newspaper', 'elevator', 'salon', 'restaurant']	what do you want to know about this thing ? 
+causes for gout	['toe', 'elbow', 'finger', '<unknown>', '<unknown>']	which body part are you looking for ? 
+mjd	['tool', 'design', 'photography', 'engineering', '<unknown>']	what do you want to know about mjd ? 
+atlanta diabetes associates	['endocrinology diabetes metabolism', 'physician assistant pa', 'provider', '<unknown>', '<unknown>']	what do you want to know about atlanta diabetes associates ? 
+south lake hospital	['radiology', 'medical record', 'pharmacy', '<unknown>', '<unknown>']	what do you want to know about south lake hospital ? 
+tukui client	['for windows', 'for mac', 'for linux', '<unknown>', '<unknown>']	what do you want to know about this client ? 
+southern farm bureau	['insurance', 'bank', '<unknown>', '<unknown>', '<unknown>']	which service are you looking for ? 
+add printer to wifi	['hp', 'canon', 'epson', 'brother', 'lexmark']	which company are you looking for ? 
+coordination of benefits definition	['business', 'english', 'economics', 'management', '<unknown>']	what do you want to know about coordination of benefits definition ? 
+aiseesoft screen recorder	['pc', 'android', 'ios', '<unknown>', '<unknown>']	which device are you looking for ? 
+bizet	['symphony', 'opera', 'contemporary', '<unknown>', '<unknown>']	what do you want to know about this composer ? 
+railcard uk	['senior', 'student', '<unknown>', '<unknown>', '<unknown>']	which people are you looking for ? 
+wicker accent tables	['indoor', 'outdoor', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about wicker accent tables ? 
+mo white	['marsh', 'river', '<unknown>', '<unknown>', '<unknown>']	which area are you looking for ? 
+iluvien	['injection', 'cost', 'side effect', 'package insert', 'indication']	what do you want to know about this prevention? 
+design studio	['exterior', 'interior', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about design studio ? 
+converter video	['mp3', 'mp4', 'dvd', 'avi', 'wmv']	which video format are you looking for ? 
+forest products	['northern', 'eastern', 'southern', 'central', 'western']	which region are you looking for ? 
+white duvet cover	['queen', 'king', 'twin', 'full', '<unknown>']	what do you want to know about white duvet cover ? 
+mental health charities	['national mental health charities', 'local mental health charities', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about mental health charities ? 
+continuous quality improvement	['process', 'tool', 'theory', 'software', 'system']	what do you want to know about this quality process ? 
+lipid rescue	['guideline', 'policy', '<unknown>', '<unknown>', '<unknown>']	which information are you looking for ? 
+windows 10 cleanup	['upgrade', 'profile', '<unknown>', '<unknown>', '<unknown>']	which information are you looking for ? 
+music unblocked	['rap', 'country', 'classical', 'rock', 'techno']	which music genre are you looking for ? 
+tamarillo	['fruit', 'seed', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about this tree ? 
+docker volumes	['windows', 'postgres', 'mysql', '<unknown>', '<unknown>']	what do you want to know about docker volumes ? 
+colts reddit	['seahawk', 'steeler', 'texan', '<unknown>', '<unknown>']	which team are you looking for ? 
+argonne	['credit union', 'insurance', 'dental', 'medical', 'retirement']	which benefit are you looking for ? 
+mustang 2012	['specs', 'manual', 'review', '<unknown>', '<unknown>']	what do you want to know about mustang 2012 ? 
+cotillon	['for party', 'for wedding', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about cotillon ? 
+duke street	['pediatric dentistry', 'urgent care', 'pediatric', 'family medicine', 'pharmacy']	which specialty are you looking for ? 
+vertis	['inc bankruptcy', 'aviation', 'retail', 'construction', 'energy']	what do you want to know about this information ? 
+garfield and friends	['intro', 'character', 'episode', 'dvd', 'vhs']	what do you want to know about this tv show ? 
+houma courier	['newspaper', 'sport', '<unknown>', '<unknown>', '<unknown>']	which thing are you looking for ? 
+best place to buy watches	['seiko', 'rolex', 'breitling', 'omega', 'seiko']	what do you want to know about best place to buy watches ? 
+minarik	['guitar', 'bass', '<unknown>', '<unknown>', '<unknown>']	which instrument are you looking for ? 
+princeton bc	['weather', 'motel', 'restaurant', 'cabin', '<unknown>']	what do you want to know about princeton bc ? 
+short pump town center	['event', 'job', 'zip code', '<unknown>', '<unknown>']	which information are you looking for ? 
+palm beach docket	['court', 'traffic', '<unknown>', '<unknown>', '<unknown>']	which issue are you looking for ? 
+mount whitney	['weather', 'fact', 'hotel', '<unknown>', '<unknown>']	which information are you looking for ? 
+study to show thyself approved	['nkjv', 'niv', 'nasb', 'esv', '<unknown>']	which translation are you looking for ? 
+space weather news	['noaa', 'nasa', 'esa', '<unknown>', '<unknown>']	which agency are you looking for ? 
+seasonique birth control	['dosage', 'coupon', 'package insert', '<unknown>', '<unknown>']	what do you want to know about seasonique birth control ? 
+trio restaurant	['mediterranean', 'italian', '<unknown>', '<unknown>', '<unknown>']	which language are you looking for ? 
+time for change	['quote', 'song', '<unknown>', '<unknown>', '<unknown>']	which information are you looking for ? 
+news jerusalem	['fox', 'cnn', 'abc', 'bbc', 'nbc']	which network are you looking for ? 
+anglin	['construction', 'civil', 'property', 'family', 'insurance']	what do you want to know about anglin ? 
+clone watches	['breitling', 'omega', 'rolex', 'panerai', 'cartier']	which watch brand are you looking for ? 
+sony a7r	['review', 'firmware', 'manual', 'specs', 'for sale']	what do you want to know about sony a7r ? 
+hits from 1979	['dance', 'pop', 'rock', '<unknown>', '<unknown>']	which art genre are you looking for ? 
+daly city ca	['hotel', 'zip code', 'population', '<unknown>', '<unknown>']	what do you want to know about daly city ca ? 
+parachute colorado	['weather', 'hotel', 'restaurant', 'zip code', '<unknown>']	what do you want to know about parachute colorado ? 
+polar fleece	['sock', 'pant', 'jacket', 'blanket', 'hat']	which item are you looking for ? 
+spoiled children	['statistics', 'psychology', 'history', '<unknown>', '<unknown>']	what do you want to know about spoiled children ? 
+alse	['army', 'air force', 'coast guard', '<unknown>', '<unknown>']	which army group are you looking for ? 
+empire gaming	['chair', 'table', '<unknown>', '<unknown>', '<unknown>']	which furniture are you looking for ? 
+bright path	['mortgage', 'health insurance', 'refinance', '<unknown>', '<unknown>']	which benefit are you looking for ? 
+two piece swimsuit	['halter', 'strapless', 'one shoulder', 'cap sleeve', '<unknown>']	which style are you looking for ? 
+chlamydia	['fact', 'life cycle', 'type', '<unknown>', '<unknown>']	which information are you looking for ? 
+venture one credit card	['capital', 'chase', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about this one credit card ? 
+authentic watch	['rolex', 'cartier', 'fossil', 'gucci', '<unknown>']	which watch brand are you looking for ? 
+rose gold bracelet	['pandora', 'cartier', 'michael kors', 'kate spade', 'givenchy']	which brand are you looking for ? 
+yt converter	['mp3', 'mp4', '<unknown>', '<unknown>', '<unknown>']	which format are you looking for ? 
+agris	['software', 'system', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about this thing ? 
+hieroglyphics	['for kid', 'animal', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about this hieroglyphics ? 
+recall from outlook	['2010', '2013', '2016', '<unknown>', '<unknown>']	which year are you looking for ? 
+janie and jack clothing	['kid', 'baby', '<unknown>', '<unknown>', '<unknown>']	which child are you looking for ? 
+squinkies	['spongebob', 'disney', 'star war', 'marvel', 'toy story']	what do you want to know about this site ? 
+vampire masquerade bloodlines	['patch', 'mods', 'walkthrough', 'review', 'soundtrack']	what do you want to know about vampire masquerade bloodlines ? 
+rogers activity center	['soccer', 'baseball', 'basketball', 'volleyball', '<unknown>']	which sport are you looking for ? 
+coin envelope	['white', 'clear', 'yellow', 'red', 'gold']	which color are you looking for ? 
+motilal oswal	['financial service', 'asset management', 'private equity', '<unknown>', '<unknown>']	which service are you looking for ? 

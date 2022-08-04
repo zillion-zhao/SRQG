@@ -1,0 +1,100 @@
+google chrome exe	['64 bit', '32 bit', '<unknown>', '<unknown>', '<unknown>']	which bit version of chrome are you looking for ? 
+supernoobs	['character', 'episode', 'rating', 'plot', 'broadcast']	which thing are you looking for ? 
+sickle cell anemia	['symptom', 'causes', 'treatment', 'diagnosis', 'diet']	what do you want to know about this disease ? 
+acitretin	['side effect', 'cost', 'prescribing information', 'brand name', 'generic']	what do you want to know about this systemic retinoid ? 
+leiden	['thing to do', 'what time is it', 'weather', 'zip code', '<unknown>']	what do you want to know about this city ? 
+quiet riot	['song', 'member', 'album', 'tour', '<unknown>']	which information are you looking for ? 
+diabetes diet	['type 1', 'type 2', '<unknown>', '<unknown>', '<unknown>']	which type of diabetes are you looking for ? 
+open gif file	['windows 10', 'windows 8', 'windows 7', 'windows vista', 'windows xp']	which operating system are you looking for ? 
+social phobia	['symptom', 'cause', 'treatment', 'diagnosis', 'diet']	what do you want to know about this disease ? 
+transfer pictures	['android', 'iphone', '<unknown>', '<unknown>', '<unknown>']	which mobile device are you looking for ? 
+guinea pig	['care for', 'bathe', 'train', 'breed', 'play with']	what do you want to know about this small animal ? 
+croton plant	['outdoor', 'indoor', '<unknown>', '<unknown>', '<unknown>']	which program are you looking for ? 
+romans 9	['kjv', 'niv', 'esv', 'nasb', 'nlt']	which translation are you looking for ? 
+agario	['ios', 'android', '<unknown>', '<unknown>', '<unknown>']	which platform are you looking for ? 
+lipoma	['treatment', 'symptom', 'cause', 'diagnosis', 'diet']	what do you want to know about this notable tumor ? 
+haloperidol	['side effect', 'half life', 'dosage', 'generic', 'injection']	what do you want to know about this drug ? 
+centimeters	['inch', 'millimeter', 'feet', 'meter', 'kilometer']	which length are you looking for ? 
+icloud photos	['access', 'download', 'delete', 'share', '<unknown>']	what do you want to do with icloud photos ? 
+busan	['thing to do', 'weather', 'what time is it', 'population', '<unknown>']	what do you want to know about this city ? 
+prom dresses	['long', 'short', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about prom dresses ? 
+office 365	['use', 'install', 'remove', '<unknown>', '<unknown>']	what do you want to know about this service ? 
+koi fish	['for sale', 'pictures', 'fact', 'type', 'eat']	what do you want to know about koi fish ? 
+psycho	['cast', 'characters', 'summary', 'trailer', 'quotes']	what do you want to know about this film ? 
+cursive	['letters', 'notepad', 'cards', 'stickers', 'magnets']	what do you want to know about this band ? 
+life	['succeed', 'enjoy', 'play', 'live', 'change']	what do you want to do with life ? 
+protein	['get', 'test', 'calculate', 'make', 'isolate']	what do you want to do with protein ? 
+nebraska	['abbreviation', 'time', 'population', 'job', 'unemployment']	what do you want to know about this state ? 
+gettysburg	['movie', 'college', 'address', 'city', 'national military park']	which place are you looking for ? 
+trailer	['build', 'load', 'back up', 'wire', 'level']	what do you want to do with trailer ? 
+donkey	['picture', 'fact', 'baby', 'sound', '<unknown>']	which material are you looking for ? 
+crystal city	['hotel', 'zip code', 'restaurant', 'thing to do', 'population']	what do you want to know about this city ? 
+pad thai	['shrimp', 'tofu', 'chicken', 'vegetable', 'cabbage']	which ingredient are you looking for ? 
+bleach	['use', 'watch', 'make', 'dispose', 'dilute']	what do you want to do with bleach ? 
+chuck	['tv show', 'berry', 'norris', 'meat', 'film']	what do you want to know about this show ? 
+pantera	['song', 'album', 'member', 'merch', 'lyric']	what do you want to know about this band ? 
+paper	['make', 'use tracing', 'grade', 'laminate', 'recycle']	what do you want to know about this material ? 
+file extension exe	['windows 10', 'windows 8', 'windows 7', 'windows vista', 'windows xp']	which operating system are you looking for ? 
+expo markers	['dry erase', 'wet erase', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about expo markers ? 
+kindle	['print from', 'reset', 'use', 'update', 'deregister']	what do you want to know about this device ? 
+carrots	['cook', 'grow', 'freeze', 'store', '<unknown>']	what do you want to do with carrots ? 
+ps4 mic	['usb', 'bluetooth', 'wireless', '<unknown>', '<unknown>']	which device are you looking for ? 
+underwear for women	['jockey', 'hanes', 'calvin klein', 'fruit of the loom', 'tommy hilfiger']	which brand are you looking for ? 
+cabins in asheville nc	['for rent', 'for sale', '<unknown>', '<unknown>', '<unknown>']	which owner for home are you looking for ? 
+tungsten wedding bands	['for men', 'for women', '<unknown>', '<unknown>', '<unknown>']	who are you shopping for ? 
+outlook email setup	['imap', 'pop3', '<unknown>', '<unknown>', '<unknown>']	which protocol are you looking for ? 
+multiple system atrophy	['symptom', 'treatment', 'cause', 'diagnosis', 'diet']	what do you want to know about this disease ? 
+kids poems	['short', 'long', '<unknown>', '<unknown>', '<unknown>']	which thing are you looking for ? 
+star wars lego sets	['general grievous', 'boba fett', 'darth vader', 'yoda', 'darth maul']	which character are you looking for ? 
+epson printer drivers	['windows 10', 'windows 7', 'windows 8', 'windows vista', 'windows 2000']	which operating system are you looking for ? 
+what does npi stand for	['dental', 'medical', '<unknown>', '<unknown>', '<unknown>']	which benefit are you looking for ? 
+olympic swimmers	['female', 'male', '<unknown>', '<unknown>', '<unknown>']	who are you shopping for ? 
+how are magnets made	['temporary', 'permanent', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about how are magnets made ? 
+spontaneous pneumothorax	['secondary', 'primary', '<unknown>', '<unknown>', '<unknown>']	which length are you looking for ? 
+cute easy hairstyles	['medium', 'long', 'short', '<unknown>', '<unknown>']	which length are you looking for ? 
+active transport definition biology	['secondary', 'primary', '<unknown>', '<unknown>', '<unknown>']	which cost are you looking for ? 
+condolence messages	['short', 'long', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about condolence messages ? 
+medical assistant	['job description', 'salary', 'certification', 'resume', '<unknown>']	what do you want to know about this member of the physician ? 
+rhabdomyolysis	['symptom', 'causes', 'treatment', 'diagnosis', 'diet']	what do you want to know about this risk ? 
+hamster	['care for', 'train', 'tame', 'stop from biting', 'hold']	what do you want to know about this small animal ? 
+matlab	['download', 'use', 'learn', 'plot', 'concatenate']	what do you want to know about this software ? 
+aikido techniques	['beginner', 'advanced', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about aikido techniques ? 
+sims 4 custom content	['hair', 'nails', 'skin', 'eyes', 'makeup']	which nutrient are you looking for ? 
+cedar siding	['interior', 'exterior', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about cedar siding ? 
+strength	['character', 'leadership', 'communication', 'family', 'writing']	which skill are you looking for ? 
+my occ	['financial aid', 'registration', 'transcript', 'library', 'bookstore']	which service are you looking for ? 
+adjectives to describe a person	['positive', 'negative', '<unknown>', '<unknown>', '<unknown>']	which person are you looking for ? 
+how long to cook liver	['lamb', 'beef', 'pork', 'chicken', 'turkey']	which meat are you looking for ? 
+dell t5400	['motherboard', 'memory', 'power supply', 'processor', 'video card']	which component are you looking for ? 
+golden nugget las vegas	['event', 'restaurant', 'picture', 'map', 'parking']	what do you want to know about this resort ? 
+conexant audio driver windows 10	['hp', 'asus', 'dell', 'toshiba', 'lenovo']	which company are you looking for ? 
+tetralogy of fallot	['symptom', 'treatment', 'cause', 'diagnosis', 'diet']	what do you want to know about this heart defect ? 
+dear evan hansen	['summary', 'script', 'song', 'quote', 'character']	which thing are you looking for ? 
+team fortress 2	['steam', 'mod', 'gameplay', 'cheat', '<unknown>']	which game are you looking for ? 
+usb drive	['open', 'format', 'eject', 'boot from', '<unknown>']	what do you want to know about this removable media ? 
+saskatoon	['things to do', 'weather', 'population', 'what time', 'zip code']	what do you want to know about this area ? 
+sand dollar	['fact', 'image', 'for sale', 'eat', 'shell']	which inforamtion are you looking for ? 
+the sandlot	['cast', 'character', 'quote', 'trailer', 'soundtrack']	what do you want to know about the picture ? 
+directx 12	['download', 'enable', 'uninstall', '<unknown>', '<unknown>']	what do you want to do with directx 12 ? 
+daredevil	['movie', 'tv show', 'comic', '<unknown>', '<unknown>']	which thing are you looking for ? 
+rugrats	['tv show', 'movie', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about this people ? 
+internal auditor	['job description', 'personal goal', 'qualification', 'average salary', 'resume']	what do you want to know about this job ? 
+qualitative research	['data analysis', 'sampling', 'coding', 'methodology', 'research design']	what do you want to know about this profile of the company ? 
+corbel	['concrete', 'metal', 'brick', 'wood', 'stone']	which material are you looking for ? 
+list of healthy carbs	['for weight loss', 'for weight gain', '<unknown>', '<unknown>', '<unknown>']	what do you want to know about list of healthy carbs ? 
+vein stenosis	['hepatic', 'renal', 'pulmonary', '<unknown>', '<unknown>']	which disease are you looking for ? 
+santa barbara	['population', 'things to do', 'fact', 'hotel', 'weather in may']	what do you want to know about this city ? 
+facial tingling	['left side', 'right side', '<unknown>', '<unknown>', '<unknown>']	which side are you looking for ? 
+mini scones	['vanilla bean', 'chocolate chip', 'lemon', 'cinnamon', 'pumpkin']	which ingredient are you looking for ? 
+oceano ca	['homes for sale', 'weather', 'hotels', 'zip code', '<unknown>']	what do you want to know about oceano ca ? 
+dump cakes	['apple', 'cherry', 'chocolate', 'pumpkin', 'lemon']	which fruit are you looking for ? 
+martinique	['things to do', 'flag', 'currency', 'population', 'time']	what do you want to know about this island ? 
+cuadra	['boots', 'belt', 'wallet', 'messenger bag', 'jacket']	what do you want to know about this brand ? 
+byu provo	['housing', 'admission', 'scholarship', 'bookstore', 'counseling']	what do you want to know about this business ? 
+sioux center iowa	['weather', 'news', 'zip code', 'population', '<unknown>']	which information are you looking for ? 
+salem massachusetts	['things to do', 'weather', 'zip code', 'population', '<unknown>']	what do you want to know about this university ? 
+dermatophytosis	['treatment', 'symptom', 'cause', 'diagnosis', 'diet']	what do you want to know about this disease ? 
+front loading washing machine	['maytag', 'kenmore', 'samsung', 'lg', 'ge']	which brand are you looking for ? 
+velvet revolver	['member', 'album', 'lyric', 'tour', '<unknown>']	what do you want to know about this prolific writer ? 
+adhd	['symptom', 'cause', 'treatment', 'diagnosis', 'diet']	what do you want to know about this disorder ? 
+pancreatic cancer	['symptom', 'treatment', 'cause', 'diagnosis', 'diet']	what do you want to know about this disease ? 

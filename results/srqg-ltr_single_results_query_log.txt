@@ -1,0 +1,100 @@
+onekey optimizer	['windows 10', 'windows 7']	which windows are you looking for?
+nsw tafe portal	['staff', 'student']	which group are you looking for?
+spring valley sales	['boat', 'car']	which vehicle are you looking for?
+alex and ani bracelets	['for mom', 'for women', 'for girls', 'for baby']	what do you want to know about alex and ani bracelets?
+eastlake	['middle school', 'elementary school']	what do you want to know about eastlake?
+wall mounted toothbrush holder	['ceramic', 'wood', 'chrome', 'bronze', 'plastic']	which suitable material are you looking for?
+network shared folder	['windows 10', 'windows 7']	which windows are you looking for?
+geckodriver	['firefox', 'chrome']	which browser are you looking for?
+my town game	['hospital', 'airport', 'school', 'museum', 'wedding game']	what do you want to know about my town game?
+adobe edit pdf	['to word', 'to excel', 'to linux', 'to outlook']	what do you want to know about adobe edit pdf?
+teveten	['discontinued', 'side effect']	what do you want to know about this prescription medication?
+battle of poitiers	['tour', 'fact']	which event are you looking for?
+delta tau delta	['wsu', 'tcu', 'purdue', 'penn state', 'ohio state']	what do you want to know about delta tau delta?
+shell factory	['event', 'jewelry', 'wedding']	which valuable item are you looking for?
+mathway calc	['algebra', 'graphing']	which topic are you looking for?
+city of westland	['water department', 'assessor', 'building department', 'police department', 'treasurer']	which corporate officer are you looking for?
+sandbridge	['rental', 'homes for sale']	what do you want to know about this coastal community of virginia beach?
+fireplace accessories	['gas', 'wood', 'electric', 'propane']	which fuel are you looking for?
+dry aged steak	['filet mignon', 'delmonico', 'ribeye', 'strip', 'skirt']	what do you want to know about dry aged steak?
+skip hop	['diaper bag', 'high chair', 'baby', 'bouncer', 'toy']	what do you want to know about this lifestyle brand for parent?
+backyard shed	['office', 'bathroom', 'hot tub', 'gym', 'bedroom']	which private space are you looking for?
+further education	['for nurse', 'for pharmacist', 'for physician assistant', 'for counselor', 'for optometrist']	what do you want to know about further education?
+age demographics	['by zip code', 'us population']	what do you want to know about age demographics?
+hazard lights	['tractor', 'car', 'bus']	which vehicle are you looking for?
+seagate discwizard	['windows 10', 'windows 7', 'windows 8']	which windows are you looking for?
+vob player	['windows', 'mac', 'android']	which device are you looking for?
+wire rack	['shelving', 'wire rack cart']	which product are you looking for?
+pestworld	['bed bug', 'ant', 'spider']	which insect are you looking for?
+williston nd	['real estate', 'newspaper', 'elevator', 'salon', 'restaurant']	which traditional medium are you looking for?
+causes for gout	['toe', 'elbow', 'finger']	which body s extremity are you looking for?
+mjd	['tool', 'design', 'photography', 'engineering']	what do you want to know about this medical term meaning lack?
+atlanta diabetes associates	['endocrinology diabetes metabolism', 'physician assistant pa', 'provider']	what do you want to know about atlanta diabetes associates?
+south lake hospital	['radiology', 'medical record', 'pharmacy']	which documentation are you looking for?
+tukui client	['for windows', 'for mac', 'for linux']	what do you want to know about tukui client?
+southern farm bureau	['insurance', 'bank']	which service are you looking for?
+add printer to wifi	['hp', 'canon', 'epson', 'brother', 'lexmark']	which manufacturer are you looking for?
+coordination of benefits definition	['business', 'english', 'economics', 'management']	what do you want to know about coordination of benefits definition?
+aiseesoft screen recorder	['pc', 'android', 'ios']	which device are you looking for?
+bizet	['symphony', 'opera', 'contemporary']	which popular web browser are you looking for?
+railcard uk	['senior', 'student']	which person are you looking for?
+wicker accent tables	['indoor', 'outdoor']	which environment are you looking for?
+mo white	['marsh', 'river']	what do you want to know about mo white?
+iluvien	['injection', 'cost', 'side effect', 'package insert', 'indication']	which information are you looking for?
+design studio	['exterior', 'interior']	what do you want to know about design studio?
+converter video	['mp3', 'mp4', 'dvd', 'avi', 'wmv']	which video file are you looking for?
+forest products	['northern', 'eastern', 'southern', 'central', 'western']	which region are you looking for?
+white duvet cover	['queen', 'king', 'twin', 'full']	what do you want to know about white duvet cover?
+mental health charities	['national mental health charities', 'local mental health charities']	what do you want to know about mental health charities?
+continuous quality improvement	['process', 'tool', 'theory', 'software', 'system']	which product are you looking for?
+lipid rescue	['guideline', 'policy']	what do you want to know about this supply of lipid emulsion intralipid?
+windows 10 cleanup	['upgrade', 'profile']	which service are you looking for?
+music unblocked	['rap', 'country', 'classical', 'rock', 'techno']	which genre are you looking for?
+tamarillo	['fruit', 'seed']	what do you want to know about tamarillo?
+docker volumes	['windows', 'postgres', 'mysql']	which database server are you looking for?
+colts reddit	['seahawk', 'steeler', 'texan']	what do you want to know about colts reddit?
+argonne	['credit union', 'insurance', 'dental', 'medical', 'retirement']	which benefit are you looking for?
+mustang 2012	['specs', 'manual', 'review']	what do you want to know about mustang 2012?
+cotillon	['for party', 'for wedding']	what do you want to know about cotillon?
+duke street	['pediatric dentistry', 'urgent care', 'pediatric', 'family medicine', 'pharmacy']	what do you want to know about duke street?
+vertis	['inc bankruptcy', 'aviation', 'retail', 'construction', 'energy']	which service are you looking for?
+garfield and friends	['intro', 'character', 'episode', 'dvd', 'vhs']	which information are you looking for?
+houma courier	['newspaper', 'sport']	what do you want to know about houma courier?
+best place to buy watches	['seiko', 'rolex', 'breitling', 'omega', 'seiko']	which watch brand are you looking for?
+minarik	['guitar', 'bass']	which musical instrument are you looking for?
+princeton bc	['weather', 'motel', 'restaurant', 'cabin']	which establishment are you looking for?
+short pump town center	['event', 'job', 'zip code']	what do you want to know about this open air premier shopping?
+palm beach docket	['court', 'traffic']	which information are you looking for?
+mount whitney	['weather', 'fact', 'hotel']	which information are you looking for?
+study to show thyself approved	['nkjv', 'niv', 'nasb', 'esv']	which version are you looking for?
+space weather news	['noaa', 'nasa', 'esa']	which agency are you looking for?
+seasonique birth control	['dosage', 'coupon', 'package insert']	which information are you looking for?
+trio restaurant	['mediterranean', 'italian']	which european language are you looking for?
+time for change	['quote', 'song']	what do you want to know about this metal band?
+news jerusalem	['fox', 'cnn', 'abc', 'bbc', 'nbc']	which network are you looking for?
+anglin	['construction', 'civil', 'property', 'family', 'insurance']	which type of engineering are you looking for?
+clone watches	['breitling', 'omega', 'rolex', 'panerai', 'cartier']	which watch are you looking for?
+sony a7r	['review', 'firmware', 'manual', 'specs', 'for sale']	what do you want to know about sony a7r?
+hits from 1979	['dance', 'pop', 'rock']	which musical style are you looking for?
+daly city ca	['hotel', 'zip code', 'population']	which personal information are you looking for?
+parachute colorado	['weather', 'hotel', 'restaurant', 'zip code']	what do you want to know about parachute colorado?
+polar fleece	['sock', 'pant', 'jacket', 'blanket', 'hat']	which protective clothing are you looking for?
+spoiled children	['statistics', 'psychology', 'history']	what do you want to know about spoiled children?
+alse	['army', 'air force', 'coast guard']	which marine authority are you looking for?
+empire gaming	['chair', 'table']	which furniture are you looking for?
+bright path	['mortgage', 'health insurance', 'refinance']	which loan are you looking for?
+two piece swimsuit	['halter', 'strapless', 'one shoulder', 'cap sleeve']	what do you want to know about two piece swimsuit?
+chlamydia	['fact', 'life cycle', 'type']	what do you want to know about this sexually transmitted disease?
+venture one credit card	['capital', 'chase']	which bank are you looking for?
+authentic watch	['rolex', 'cartier', 'fossil', 'gucci']	which luxury watch are you looking for?
+rose gold bracelet	['pandora', 'cartier', 'michael kors', 'kate spade', 'givenchy']	which brand name watch are you looking for?
+yt converter	['mp3', 'mp4']	which audio format are you looking for?
+agris	['software', 'system']	which product are you looking for?
+hieroglyphics	['for kid', 'animal']	what do you want to know about this american underground hip hop?
+recall from outlook	['2010', '2013', '2016']	what do you want to know about recall from outlook?
+janie and jack clothing	['kid', 'baby']	who are you shopping for?
+squinkies	['spongebob', 'disney', 'star war', 'marvel', 'toy story']	which topic are you looking for?
+vampire masquerade bloodlines	['patch', 'mods', 'walkthrough', 'review', 'soundtrack']	what do you want to know about vampire masquerade bloodlines?
+rogers activity center	['soccer', 'baseball', 'basketball', 'volleyball']	which sport activity are you looking for?
+coin envelope	['white', 'clear', 'yellow', 'red', 'gold']	which neutral color are you looking for?
+motilal oswal	['financial service', 'asset management', 'private equity']	which service are you looking for?
